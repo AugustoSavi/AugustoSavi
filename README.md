@@ -33,4 +33,4 @@
 [twitter]: https://twitter.com/Augusto_Savi
 [youtube]: https://www.youtube.com/channel/UCaQ_ouUi6rf-1e-jbmSHXHw
 [instagram]: https://instagram.com/saviaugusto
-[linkedin]: https://linkedin.com/in/augusto-savi-089119167
+[linkedin]: https://www.linkedin.com/in/augusto-savi-089119167
