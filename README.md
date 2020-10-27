@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Vice presidente do Centro Acadêmico de Ciência da Computação|Unesc|
+
+Academico de Ciência da Computação|Unesc|
+
+Menção honrosa Startup Weekend Criciúma 2019
+
+Vencedor Hackathon Unesc 2020
+
+Mago dos Bots nas horas Vagas
+
 ### Connect with me:
 
 [<img align="left" alt="AugustoSavi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
