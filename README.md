@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Assistente de desenvolvimento na Betha Sistemas|Criciúma| 
+
 Vice presidente do Centro Acadêmico de Ciência da Computação|Unesc|
 
 Academico de Ciência da Computação|Unesc|
