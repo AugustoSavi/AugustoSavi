@@ -43,6 +43,8 @@ Mago dos Bots nas horas Vagas
 
 <img align="left" alt="AugustoSavi Github Stats" src="https://github-readme-stats.vercel.app/api?username=AugustoSavi&show_icons=true&hide_border=true" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSavi&layout=compact)
+
 [twitter]: https://twitter.com/Augusto_Savi
 [youtube]: https://www.youtube.com/channel/UCaQ_ouUi6rf-1e-jbmSHXHw
 [instagram]: https://instagram.com/saviaugusto
