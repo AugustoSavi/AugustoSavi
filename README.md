@@ -2,7 +2,7 @@
 
 Assistente de desenvolvimento na Betha Sistemas|Criciúma| 
 
-Vice presidente do Centro Acadêmico de Ciência da Computação|Unesc|
+Vice presidente do Centro Acadêmico de Ciência da Computação(2020)|Unesc|
 
 Academico de Ciência da Computação|Unesc|
 
