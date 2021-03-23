@@ -33,6 +33,9 @@ Mago dos Bots nas horas Vagas
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
+[<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png" />][linkedin]
+[<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/32443720/112219359-a4a50200-8c03-11eb-8f87-aecca8524cab.png" />][linkedin]
+[<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/32443720/112219552-e8980700-8c03-11eb-88e1-b26cfe77f3d7.png" />][linkedin]
 
 
 <br />
