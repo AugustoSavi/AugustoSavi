@@ -41,6 +41,7 @@ Mago dos Bots nas horas Vagas
 <br />
 <br />
 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=AugustoSavi alt=AugustoSavi /> </p>
 
 <img align="left" width="450px" alt="AugustoSavi Github Stats" src="https://github-readme-stats.vercel.app/api?username=AugustoSavi&theme=radical&show_icons=false&hide_border=true" />
 
