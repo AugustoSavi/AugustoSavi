@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Assistente de desenvolvimento na Betha Sistemas|Criciúma| 
+Programador de Sistemas I na Betha Sistemas|Criciúma| 
 
 Vice presidente do Centro Acadêmico de Ciência da Computação(2020)|Unesc|
 
