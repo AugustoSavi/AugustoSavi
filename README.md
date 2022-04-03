@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Programador de Sistemas I na Betha Sistemas|Criciúma| 
+Analista de Sistemas |Betha Sistemas|
 
 Vice presidente do Centro Acadêmico de Ciência da Computação(2020)|Unesc|
 
