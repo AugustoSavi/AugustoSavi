@@ -1,10 +1,10 @@
+<p align=left> <img src=https://komarev.com/ghpvc/?username=AugustoSavi alt=AugustoSavi /> </p>
+
 ### Hi there 👋
 
 Analista de Sistemas |Betha Sistemas|
 
-Vice presidente do Centro Acadêmico de Ciência da Computação(2020)|Unesc|
-
-Academico de Ciência da Computação|Unesc|
+Acadêmico de Ciência da Computação|Unesc|
 
 Menção honrosa Startup Weekend Criciúma 2019
 
@@ -41,11 +41,7 @@ Mago dos Bots nas horas Vagas
 <br />
 <br />
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=AugustoSavi alt=AugustoSavi /> </p>
-
 <img align="left" width="450px" alt="AugustoSavi Github Stats" src="https://github-readme-stats.vercel.app/api?username=AugustoSavi&theme=radical&show_icons=false&hide_border=true" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSavi&theme=radical&layout=compact)
 
 [twitter]: https://twitter.com/Augusto_Savi
 [youtube]: https://www.youtube.com/channel/UCaQ_ouUi6rf-1e-jbmSHXHw
