@@ -41,7 +41,15 @@ Mago dos Bots nas horas Vagas
 <br />
 <br />
 
+<h3 align="left"> Atividade Gitlab </h3>
+
+<img align="left" alt="Augusto-Savi-·-GitLab" src="https://user-images.githubusercontent.com/32443720/218234859-3cd7907f-4df9-4e23-87df-ac39e7014d40.png" />
+
+<br />
+<br />
+
 <img align="left" width="450px" alt="AugustoSavi Github Stats" src="https://github-readme-stats.vercel.app/api?username=AugustoSavi&theme=radical&show_icons=false&hide_border=true" />
+
 
 [twitter]: https://twitter.com/Augusto_Savi
 [youtube]: https://www.youtube.com/channel/UCaQ_ouUi6rf-1e-jbmSHXHw
