@@ -3,7 +3,7 @@
 
 Analista de Sistemas |Betha Sistemas|
 
-Acadêmico de Ciência da Computação|Unesc|
+Ciêntista da Computação|Unesc|
 
 Menção honrosa Startup Weekend Criciúma 2019
 
