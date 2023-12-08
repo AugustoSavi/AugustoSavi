@@ -13,13 +13,18 @@ Atualmente estou desbravando o mundo da tecnologia com uma dose de paixão e mui
 
 ## Experiência Profissional
 
-### Betha Sistemas
-Analista de Sistemas | Criciúma, Santa Catarina, Brasil
+### Betha Sistemas | Criciúma, Santa Catarina, Brasil
+Analista de Sistemas
 - 📅 Desde abril de 2022
-- Como programador de sistemas, sou responsável por trazer inovações e soluções criativas para a equipe.
 
-### Tecsul Sistemas
-Analista de Suporte de Sistemas | Criciúma e Região, Brasil
+Programador de sistemas
+- 📅  junho de 2021 a abril de 2022
+
+Assistente de desenvolvimento
+- 📅  dezembro de 2020 a junho de 2021
+
+### Tecsul Sistemas | Criciúma, Santa Catarina, Brasil
+Analista de Suporte de Sistemas
 - 📅 Outubro de 2019 a novembro de 2020
 - Trabalhei com suporte de sistemas, fornecendo soluções eficazes para os clientes.
 
