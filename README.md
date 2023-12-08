@@ -2,7 +2,7 @@
 
 ## 💻 Analista de Sistemas | Bacharelado em Ciência da Computação
 
-📧 augustosavijobs@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/augustosavi) | 🛠️ [leetcode](https://leetcode.com/AugustoSavi/)
+📧 augustosavijobs@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/augustosavi)
 
 ### Sobre Mim
 
