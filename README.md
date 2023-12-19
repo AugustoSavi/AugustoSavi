@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-Atualmente estou desbravando o mundo da tecnologia com uma dose de paixão e muita criatividade. Como Analista de Sistemas, meu objetivo é deixar uma marca positiva no universo da programação, sempre buscando desafios empolgantes.
+Explorando a tecnologia com paixão e criatividade, estou sempre em busca de desafios emocionantes.
 
 - 💡 Sempre em busca de conhecimento, com um interesse especial em Java, javascript, Spring Boot, ReactJS, Python, C++, Segurança da Informação e as novas tendencias.
 - 🏆 Vencedor do Hackathon Unesc 2020 e ganhador de uma menção honrosa no Startup Weekend Criciúma 2019.
