@@ -10,6 +10,8 @@ Atualmente estou desbravando o mundo da tecnologia com uma dose de paixão e mui
 
 - 💡 Sempre em busca de conhecimento, com um interesse especial em Java, javascript, Spring Boot, ReactJS, Python, C++, Segurança da Informação e as novas tendencias.
 - 🏆 Vencedor do Hackathon Unesc 2020 e ganhador de uma menção honrosa no Startup Weekend Criciúma 2019.
+- 🚀 Lidando com mais de 2 BILHÕES de requests anuais desde 2020.
+- ⭐️ Colaboração em repositórios públicos com mais de 1000 estrelas.
 
 ## Experiência Profissional
 
