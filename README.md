@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou o Augusto Savi
 
-## 💻 Analista de Sistemas | Bacharelado em Ciência da Computação
+## 💻 Analista de Arquitetura | Bacharelado em Ciência da Computação
 
 📧 augustosavijobs@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/augustosavi)
 
@@ -16,8 +16,11 @@ Explorando a tecnologia com paixão e criatividade, estou sempre em busca de des
 ## Experiência Profissional
 
 ### Betha Sistemas | Criciúma, Santa Catarina, Brasil
+Analista de Arquitetura
+- 📅 desde julho de 2024
+
 Analista de Sistemas
-- 📅 Desde abril de 2022
+- 📅 abril de 2022 a junho de 2024
 
 Programador de sistemas
 - 📅  junho de 2021 a abril de 2022
@@ -37,12 +40,16 @@ Analista de Suporte de Sistemas
 
 ## Linguagens e Ferramentas
 
-- ☕ Java
-- 🅰️ AngularJS
-- 🌱 Spring Boot
-- 🐍 Python
-- ☁️ AWS (conhecimento básico)
 - 🐳 Docker
+
+- ☕ Java
+- 🐍 Python
 - 🔍 SQL
 - 📦 NoSQL
+
+- 🅰️ AngularJS
 - ⚛️ React (conhecimento básico)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20"/> Vue 2 (conhecimento básico)
+
+- ☁️ AWS (conhecimento básico)
+
