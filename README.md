@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou o Augusto Savi
 
-## 💻 Analista de Arquitetura | Bacharelado em Ciência da Computação
+## 💻 Arquiteto de Sistemas | Bacharelado em Ciência da Computação
 
 📧 augustosavijobs@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/augustosavi)
 
@@ -10,14 +10,16 @@ Explorando a tecnologia com paixão e criatividade, estou sempre em busca de des
 
 - 💡 Sempre em busca de conhecimento, com um interesse especial em Java, javascript, Spring Boot, ReactJS, Python, C++, Segurança da Informação e as novas tendencias.
 - 🏆 Vencedor do Hackathon Unesc 2020 e ganhador de uma menção honrosa no Startup Weekend Criciúma 2019.
-- 🚀 Lidando com mais de 2 BILHÕES de requests anuais desde 2020.
 - ⭐️ Colaboração em repositórios públicos com mais de 1000 Stars.
 
 ## Experiência Profissional
 
 ### Betha Sistemas | Criciúma, Santa Catarina, Brasil
+Arquiteto de Sistemas
+- 📅 desde outubro de 2024
+
 Analista de Arquitetura
-- 📅 desde julho de 2024
+- 📅 desde julho de 2024 a setembro de 2024
 
 Analista de Sistemas
 - 📅 abril de 2022 a junho de 2024
@@ -41,15 +43,16 @@ Analista de Suporte de Sistemas
 ## Linguagens e Ferramentas
 
 - 🐳 Docker
-
 - ☕ Java
 - 🐍 Python
 - 🔍 SQL
 - 📦 NoSQL
 
 - 🅰️ AngularJS
+- 🅰️ Angular 8+ (conhecimento básico)
 - ⚛️ React (conhecimento básico)
+- ⚛️ React Native (conhecimento básico)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20"/> Vue 2 (conhecimento básico)
 
-- ☁️ AWS (conhecimento básico)
+- ☁️ AWS (conhecimento intermediário)
 
