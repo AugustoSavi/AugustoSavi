@@ -11,7 +11,6 @@
 ### Sobre Mim
 
 - 🏆 Vencedor do Hackathon Unesc 2020
-- ⭐️ Colaboração em repositórios públicos com mais de 1000 Stars.
 
 ## Formação Acadêmica
 
