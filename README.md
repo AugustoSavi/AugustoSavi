@@ -24,7 +24,7 @@ Arquiteto de Sistemas
 - 📅 desde outubro de 2024
 
 Analista de Arquitetura
-- 📅 desde julho de 2024 a setembro de 2024
+- 📅 julho de 2024 a setembro de 2024
 
 Analista de Sistemas
 - 📅 abril de 2022 a junho de 2024
