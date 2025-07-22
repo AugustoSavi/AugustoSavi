@@ -6,7 +6,6 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/augustosavi)
 
-🤗 [Hugging Face](https://huggingface.co/AugustoSavi)
 
 ### Sobre Mim
 
