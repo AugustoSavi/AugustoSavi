@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou o Augusto Savi
 
-## 💻 Arquiteto de Sistemas | Bacharelado em Ciência da Computação
+## 💻 Desenvolvedor Java Senior | Bacharelado em Ciência da Computação
 
 📧 augustosavijobs@gmail.com
 
@@ -10,6 +10,7 @@
 ### Sobre Mim
 
 - 🏆 Vencedor do Hackathon Unesc 2020
+- Já contribui com alguns projetos OSS 
 
 ## Formação Acadêmica
 
@@ -18,9 +19,13 @@
 
 ## Experiência Profissional
 
+### FCamara | São Paulo, Brasil
+Desenvolvedor Java Senior
+- 📅 desde novembro de 2025
+
 ### Betha Sistemas | Criciúma, Santa Catarina, Brasil
 Arquiteto de Sistemas
-- 📅 desde outubro de 2024
+- 📅 outubro de 2024 a novembro de 2025
 
 Analista de Arquitetura
 - 📅 julho de 2024 a setembro de 2024
