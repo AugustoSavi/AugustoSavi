@@ -6,6 +6,8 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/augustosavi)
 
+🌐 [Blog](augustosavi.com)
+
 
 ### Sobre Mim
 
