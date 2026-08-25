@@ -8,12 +8,6 @@
 
 🌐 [Blog](https://augustosavi.com)
 
-
-### Sobre Mim
-
-- 🏆 Vencedor do Hackathon Unesc 2020
-- Já contribui com alguns projetos OSS 
-
 ## Formação Acadêmica
 
 - 🎓 Bacharelado em Ciência da Computação na Universidade do Extremo Sul Catarinense.
